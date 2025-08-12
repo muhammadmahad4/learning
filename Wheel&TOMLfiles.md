@@ -1,5 +1,3 @@
----
-
 ## **pyproject.toml**
 
 - **What is it?**  
