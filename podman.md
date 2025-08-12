@@ -1,5 +1,3 @@
----
-
 ## 🟦 **What is Podman?**
 
 - **Podman** is a container engine, just like **Docker**.
