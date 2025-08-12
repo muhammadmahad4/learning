@@ -1,5 +1,3 @@
----
-
 ## **Valkey (Redis alternative): In-memory key-value store for config/event messaging**
 
 ### **What is Valkey?**
