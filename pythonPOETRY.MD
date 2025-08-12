@@ -1,7 +1,3 @@
-Perfect! The next topic in our list is:
-
----
-
 ### **What is Poetry?**
 - It’s a modern tool to **manage Python packages, dependencies, and virtual environments**.
 - **Purpose:** Avoid “dependency hell” and make sure sharing/running your code is smooth for everyone.
